@@ -1,0 +1,73 @@
+first there was only js
+each browsers render it differently
+so then came jquery which enhanced and had a 
+single syntax for stuffs
+
+so there was many js files inorder to overcome that
+they came up with backbone.js
+
+so later people started using js and code ina 
+single page
+
+jst without changing pages we were able to update the code
+
+
+
+before react
+there was imperative coding where we have to code
+everything manually even manipulating the dom
+
+in react we need not touch the dom
+it will do everything for us
+
+1) dont touch the dom
+2) uses stuffs like lego block simply flutter
+3) one way data code
+
+functions receives some kinda input and process it as a html
+but inside javascript
+
+every component is built from the function
+
+html inside js - jsx
+it creates a dom called virtual DOM
+
+see we will give the state on what we wanna built
+then write html code in js called jsx
+so react understand and builds virtual Dom which acts as a blue print
+so react build stuffs
+
+react is jst a ui library
+angular is like everything it has all toolstuff
+so its upto us we have to choose our own stack
+
+
+
+
+npx allows us to use react without installing
+
+
+npm and yarn
+yarn is a better package manager
+fb created yarn
+
+
+see its difficult to create a react project on our own
+
+so fb has created something called create-react-app
+
+
+creating a react app using
+npx
+
+npx create-react-app <appName>
+
+
+npm is used to leverage these products we can use anyone library and package
+npm install -g create-react-app
+npm install create-react-app for global and local installation respectively
+
+how to delete a package
+ npm uninstall -g cowsay
+
+npm downloads the project and delete it once done
